@@ -1,0 +1,16 @@
+{
+  "name": "roblox-selfbot",
+  "version": "1.0.0",
+  "description": "roblox",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Kazumi",
+  "license": "ISC",
+  "dependencies": {
+    "bufferutil": "^4.0.3",
+    "express": "^4.17.1",
+    "freeze-selfbot": "^1.1.0"
+  }
+}
